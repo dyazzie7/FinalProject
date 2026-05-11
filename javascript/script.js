@@ -1,7 +1,7 @@
 // ===== HOME PAGE BUTTON =====
 function showMessage() {
     document.getElementById("homeMessage").textContent =
-        "GreenTech Solutions is committed to a sustainable future!";
+        "GreenTech Solutions is committed to a sustainable future! Make sure you join!";
 }
 
 
