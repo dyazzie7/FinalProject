@@ -66,3 +66,7 @@ img {
     border-radius: 8px;
     margin: 10px 0;
 }
+.card img {
+    display: black;
+    margin: 0 auto;
+}
